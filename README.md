@@ -65,9 +65,7 @@
   <a href="https://www.linkedin.com/in/abderrahim-bajji-2667522a3/?originalSubdomain=ma" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="tel:+212614309397" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
-  </a>
+  
 </div>
 
 ###

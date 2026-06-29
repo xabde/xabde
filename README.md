@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋!  My name  Abderrahim and I'm an DevOps engineering student with strong technical expertise and a comprehensive understanding of Information Systems (IT). I have skills in software development, database design, and project management. Rigorous and solution-oriented, my goal is to optimize development and deployment processes while collaborating effectively within technical teams to successfully deliver innovative technology projects.</h1>
+<h1 align="center">Hi 👋! I'm an DevOps engineering student with strong technical expertise and a comprehensive understanding of Information Systems (IT). I have skills in software development, database design, and project management. Rigorous and solution-oriented, my goal is to optimize development and deployment processes while collaborating effectively within technical teams to successfully deliver innovative technology projects.</h1>
 
 ###
 

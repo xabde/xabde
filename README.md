@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋! I'm an DevOps engineering student with strong technical expertise and a comprehensive understanding of Information Systems (IT). I have skills in software development, database design, and project management. Rigorous and solution-oriented, my goal is to optimize development and deployment processes while collaborating effectively within technical teams to successfully deliver innovative technology projects.</h1>
+<h1 align="center">Hi 👋! I'm an DevOps Engineering student with strong technical expertise and a comprehensive understanding of Information Systems (IT). I have solid experience in software development, database design, as well as Artificial Intelligence (AI) and Machine Learning (ML). Detail-oriented and solution-driven, my goal is to optimize development and deployment processes while collaborating effectively within technical teams to deliver innovative and high-quality technology solutions.</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xabde&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=xabde&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xabde&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="langs graph"  />
 </div>
 

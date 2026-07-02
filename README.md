@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I'm an DevOps Engineering student with strong technical expertise and a comprehensive understanding of Information Systems (IT). I have solid experience in software development, database design, as well as Artificial Intelligence (AI) and Machine Learning (ML). Detail-oriented and solution-driven, my goal is to optimize development and deployment processes while collaborating effectively within technical teams to deliver innovative and high-quality technology solutions.</h1>
+<h1 align="center">Hi 👋! I'm an DevOps Engineering student with strong technical expertise and a comprehensive understanding of Information Systems (IT). I have solid experience in software development, database design, as well as Artificial Intelligence (AI) and Machine Learning (ML). Detail-oriented and solution-driven, my goal is to optimize development and deployment processes while collaborating effectively within technical teams to deliver innovative and high-quality technology solutions. https://xabde.github.io/abdebajji/#home</h1>
 
 ###
 
